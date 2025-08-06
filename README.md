@@ -158,7 +158,6 @@ _Moscow State Institute of Electronics and Mathematics (Technical University)_
 | **GitHub**       | [@bopm](https://github.com/bopm)                                  |
 | **LinkedIn**     | [moiseevsergey](https://www.linkedin.com/in/moiseevsergey/)       |
 | **Toptal**       | [Developer Profile](https://www.toptal.com/resume/sergey-moiseev) |
-| **Social**       | [@full-stack.biz](https://bsky.app/profile/full-stack.biz)        |
 
 ---
 
