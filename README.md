@@ -153,7 +153,7 @@ _Moscow State Institute of Electronics and Mathematics (Technical University)_
 
 | **Platform**     | **Link**                                                          |
 | ---------------- | ----------------------------------------------------------------- |
-| **Location**     | 📍 Tallinn, Estonia                                               |
+| **Location**     | 📍 Tallinn, Estonia (GMT+3)                                       |
 | **Availability** | 🌐 Full-time                                                      |
 | **GitHub**       | [@bopm](https://github.com/bopm)                                  |
 | **LinkedIn**     | [moiseevsergey](https://www.linkedin.com/in/moiseevsergey/)       |
