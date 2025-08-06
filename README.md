@@ -78,7 +78,6 @@ _2020 - 2023_
 _2018 - 2022_
 
 - Created Angular/NgRx prequalification system processing 10k+ applications monthly
-- Architected Nx-based monorepo reducing development time by 50%
 - Built comprehensive test coverage for automated underwriting system
 - Migrated microservices from Scala to Ruby on Rails improving maintainability
 
